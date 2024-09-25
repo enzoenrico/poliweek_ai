@@ -1,0 +1,9 @@
+*/venv
+.env
+.cache
+.git
+.idea
+.pytest_cache
+.venv
+README.md
+venv/
