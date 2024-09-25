@@ -7,3 +7,5 @@
 .venv
 README.md
 venv/
+__pycache__/
+bts/
